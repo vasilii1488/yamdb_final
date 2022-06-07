@@ -92,6 +92,7 @@ DATABASES = {
 ```docker-compose down -v```
 
 **Ссылки для проверки**
+
 ```http://51.250.103.1/admin```
 ```http://51.250.103.1/redoc```
 
