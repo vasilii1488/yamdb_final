@@ -1,4 +1,4 @@
-![workflow](https://github.com/vasilii88/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![workflow](https://github.com/vasilii1488/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Проект спринта 10: YaMDb (Yet another Movie Database)
 Стек технологий: Python 3, Django, REST API
